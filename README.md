@@ -1,6 +1,5 @@
 # Exposure-Aligned Target Trial Emulation
 
-<img width="9663" height="6733" alt="F1" src="https://github.com/user-attachments/assets/4b0e4b5f-7760-4fbc-b9e7-2b7769fecf28" />
 
 This repository accompanies the simulation experiments for exposure-aligned target trial emulation of long-latency medication outcomes. It contains public simulation code, manuscript-ready figure builders, supplementary table builders, and the final 200-replicate simulation outputs.
 
